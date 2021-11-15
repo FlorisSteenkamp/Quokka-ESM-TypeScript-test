@@ -1,4 +1,4 @@
-### This is a test accompanying [https://github.com/wallabyjs/quokka/issues/713](this Quokka issue).
+### This is a test accompanying [this Quokka issue](https://github.com/wallabyjs/quokka/issues/713).
 
 ```cli
 git clone https://github.com/FlorisSteenkamp/Quokka-ESM-TypeScript-test.git
