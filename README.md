@@ -19,3 +19,5 @@ node --loader ts-node/esm ./src/index.ts
 ```
 
 but Quokka is not happy. 😢
+
+The issue is now resolve (by renaming `.quokka.json` to `.quokka`).
