@@ -1,3 +1,6 @@
+### The issue is now resolved (by renaming `.quokka.json` to `.quokka`).
+
+
 ### This is a test accompanying [this Quokka issue](https://github.com/wallabyjs/quokka/issues/713).
 
 ```cli
@@ -19,5 +22,3 @@ node --loader ts-node/esm ./src/index.ts
 ```
 
 but Quokka is not happy. 😢
-
-The issue is now resolve (by renaming `.quokka.json` to `.quokka`).
