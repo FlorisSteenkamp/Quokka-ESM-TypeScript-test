@@ -17,3 +17,5 @@ or simply observe there are no TypeScript errors in the VS Code editor.
 ```cli
 node --loader ts-node/esm ./src/index.ts
 ```
+
+but Quokka is not happy. 😢
